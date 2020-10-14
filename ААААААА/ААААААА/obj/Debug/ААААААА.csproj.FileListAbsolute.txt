@@ -1,0 +1,7 @@
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\bin\Debug\ААААААА.exe.config
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\bin\Debug\ААААААА.exe
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\bin\Debug\ААААААА.pdb
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\obj\Debug\ААААААА.csprojAssemblyReference.cache
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\obj\Debug\ААААААА.csproj.CoreCompileInputs.cache
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\obj\Debug\ААААААА.exe
+C:\Users\black_milk777\source\repos\ААААААА\ААААААА\obj\Debug\ААААААА.pdb

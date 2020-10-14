@@ -2,7 +2,7 @@
 
 namespace ААААААА
 {
-    public class Car
+    public class Car //изменения внёс
     {
         public string name;
         public int year;
